@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 政界
+permalink: /gov/
 ---
 
 ## Test H2 banner
