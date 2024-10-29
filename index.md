@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: "测试首页"
+permalink: /index.md
 
 # 测试页面
