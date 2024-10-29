@@ -29,6 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: datawarespace
 github_username:  datawarespace
 
+markdown_ext: .md
+
 # Build settings
 theme: minima
 plugins:
